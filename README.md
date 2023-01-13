@@ -37,6 +37,7 @@
 </table> -->
       <dl>
         <dd  style="list-style-type:none">- 👋 My name is Dima. Fullstack JS Developer</dd>
+        <dd  style="list-style-type:none">- 👀 Languages open an opportunity to create precise beauty. That inspires me.</dd>
       </dl>
       
   <a href="https://mail.google.com/mail/?view=cm&source=mailto&to=599371@gmail.com">Contact via email</a>
