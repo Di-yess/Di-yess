@@ -35,6 +35,7 @@
     </tr>
   </tbody>  
 </table>
+  <a>599371@gmail.com</a>
  
 <!-- - 👋 My name is Dima. Fullstack JS Developer.&thinsp;
 - 👀 Languages open an opportunity to create precise beauty. That inspires me.&thinsp;
