@@ -5,7 +5,7 @@
       <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
     </a>
     <a href="https://t.me/Di_yess">
-      <img style="height:30px" src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white" />
+      <img style="height:29px" src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white" />
     </a>
   </div>
 </div>
