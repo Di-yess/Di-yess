@@ -36,7 +36,7 @@
   </tbody>  
 </table> -->
       <ul>
-        <li>- 👋 My name is Dima. Fullstack JS Developer</li>
+        <li  style="list-style-type:none">- 👋 My name is Dima. Fullstack JS Developer</li>
       </ul>
       
   <a href="https://mail.google.com/mail/?view=cm&source=mailto&to=599371@gmail.com">Contact via email</a>
