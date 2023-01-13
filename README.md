@@ -27,7 +27,7 @@
       <td>- 👋 My name is Dima. Fullstack JS Developer.&thinsp;</td>
     </tr>
     <tr>
-      <td>- 👀 Languages open an opportunity to create precise beauty. That inspires me.&thinsp;</td>
+      <td>- 👀 For me languages open an opportunity to create precise beauty. That inspires me.&thinsp;</td>
     </tr>
   </tbody>  
 </table>
