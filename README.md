@@ -3,7 +3,7 @@
   <div id="infoLinks">
     <a href="https://www.google.com/">
       <img style="height:27px; margin-right:15px" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
-    </a>&nbsp;
+    </a>&ensp;
     <a href="https://t.me/Di_yess">
       <img style="height:27px" src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white" />
     </a>
