@@ -23,6 +23,9 @@
   </div> -->
 <table width="320px">
   <tbody>
+     <tr>
+      <td></td>
+    </tr>
     <tr>
       <td>- 👋 My name is Dima. Fullstack JS Developer.&thinsp;</td>
     </tr>
