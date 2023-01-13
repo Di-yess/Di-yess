@@ -22,7 +22,7 @@
         <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Di-yess&theme=react&line_height=40&hide=css"/> </a>
   </div> -->
 
-  <p>- 👋 My name is Dima. Fullstack JS Developer.&thinsp;
+  <div>- 👋 My name is Dima. Fullstack JS Developer.</div>&thinsp;
 - 👀 Languages open an opportunity to create precise beauty. That inspires me.&thinsp;
 - 📫 599371@gmail.com</p>
 </div>
