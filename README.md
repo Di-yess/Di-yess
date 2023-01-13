@@ -18,6 +18,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" title="Postgres" alt="Postgres" width="40" height="40"/>&nbsp;
   </div>
   <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=Di-yess&show_icons=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Di-yess&layout=compact"/>
   </div>
 </div>
