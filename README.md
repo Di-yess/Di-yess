@@ -23,6 +23,6 @@
   </div> -->
 
   <div>- 👋 My name is Dima. Fullstack JS Developer.</div>&thinsp;
-- 👀 Languages open an opportunity to create precise beauty. That inspires me.&thinsp;
-- 📫 599371@gmail.com</p>
+  <div>- 👀 Languages open an opportunity to create precise beauty. That inspires me.</div>&thinsp;
+  <div>- 📫 599371@gmail.com</div>
 </div>
