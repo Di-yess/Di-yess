@@ -1,1 +1,1 @@
-<iframe src="https://giphy.com/embed/zgduo4kWRRDVK" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/creative-coding-programming-zgduo4kWRRDVK">via GIPHY</a></p>
+<img src="https://giphy.com/embed/zgduo4kWRRDVK" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></img><p><a href="https://giphy.com/gifs/creative-coding-programming-zgduo4kWRRDVK">via GIPHY</a></p>
