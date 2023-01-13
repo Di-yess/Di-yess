@@ -40,7 +40,7 @@
 </table> -->
       <dl>
         <dd  style="list-style-type:none">- 👀 <b>Languages open an opportunity to create precise beauty. That inspires me.</b></dd>
-        <dd  style="list-style-type:none">- 👋 Dima. Fullstack JS Developer</dd>
+        <dd  style="list-style-type:none">- 👋 <b>Dima. Fullstack JS Developer</b></dd>
       </dl>
       
 <!--   <a href="https://mail.google.com/mail/?view=cm&source=mailto&to=599371@gmail.com">Contact via email</a> -->
