@@ -39,7 +39,7 @@
   </tbody>  
 </table> -->
       <dl>
-        <dd  style="list-style-type:none">- 👀 Languages open an opportunity to create precise beauty. That inspires me.</dd>
+        <dd  style="list-style-type:none">- 👀 <b>Languages open an opportunity to create precise beauty. That inspires me.</b></dd>
         <dd  style="list-style-type:none">- 👋 Dima. Fullstack JS Developer</dd>
       </dl>
       
