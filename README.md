@@ -21,7 +21,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" title="Postgres" alt="Postgres" width="40" height="40"/>&nbsp;
-  </div>
+<!--   </div>
 <table width="320px">
   <tbody>
      <tr>
@@ -34,7 +34,11 @@
       <td>- 👀 For me languages open an opportunity to create precise beauty. That inspires me.&thinsp;</td>
     </tr>
   </tbody>  
-</table>
+</table> -->
+      <ul>
+        <li>- 👋 My name is Dima. Fullstack JS Developer</li>
+      </ul>
+      
   <a href="https://mail.google.com/mail/?view=cm&source=mailto&to=599371@gmail.com">Contact via email</a>
  
 <!-- - 👋 My name is Dima. Fullstack JS Developer.&thinsp;
