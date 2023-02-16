@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="infoLinks">
-    <a href="https://www.google.com/">
+    <a href="https://www.google.com/](https://www.linkedin.com/in/dmitriy-chernavin-628286263">
       <img style="height:27px; margin-right:15px" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
     </a>&thinsp;
     <a href="https://t.me/Di_yess">
