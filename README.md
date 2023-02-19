@@ -42,9 +42,9 @@
         <dd  style="list-style-type:none">- 👀 <b>Languages open an opportunity to create precise beauty. That inspires me.</b></dd>
         <dd  style="list-style-type:none">- 👋 <b>Dima. Frontend Developer</b></dd>
       </dl>
-      <b>Pet projects:</b>
+      <ins><b>Pet projects:</b></ins>
       <dl>
-        <dd>1. <ins>Nothing - project</ins>.  <a href="https://app-nothing-project.onrender.com/">Deployed version</a> | <a href="https://github.com/Di-yess/Nothing-pet-project">Git</a></dd>
+        <dd>1. Nothing - project. <a href="https://app-nothing-project.onrender.com/">Deployed version</a> | <a href="https://github.com/Di-yess/Nothing-pet-project">Git</a></dd>
       </dl>
       
 <!--   <a href="https://mail.google.com/mail/?view=cm&source=mailto&to=599371@gmail.com">Contact via email</a> -->
