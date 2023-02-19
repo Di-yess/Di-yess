@@ -44,7 +44,7 @@
       </dl>
       <b>Pet projects</b>
       <dl>
-        <dd>1. Nothing - project.  <a href="https://app-nothing-project.onrender.com/">deployed version</a> | <a href="https://github.com/Di-yess/Nothing-pet-project">Git</a></dd>
+        <dd>1. <ins>Nothing - project.</ins>  <a href="https://app-nothing-project.onrender.com/">deployed version</a> | <a href="https://github.com/Di-yess/Nothing-pet-project">Git</a></dd>
       </dl>
       
 <!--   <a href="https://mail.google.com/mail/?view=cm&source=mailto&to=599371@gmail.com">Contact via email</a> -->
