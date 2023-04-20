@@ -45,6 +45,7 @@
        <ins><b>Pet projects:</b></ins>
       <dl>
         <dd>1. <b>Nothing - project</b>. <a href="https://app-nothing-project.onrender.com/">Deployed version</a> | <a href="https://github.com/Di-yess/Nothing-pet-project">Git</a></dd>
+        <dd>2. <b>Photo-gallery</b>. <a href="https://github.com/Di-yess/photo-gallery">Git</a> *In process
       </dl>
       
 <!--   <a href="https://mail.google.com/mail/?view=cm&source=mailto&to=599371@gmail.com">Contact via email</a> -->
