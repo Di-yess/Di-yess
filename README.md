@@ -52,5 +52,5 @@
  
 <!-- - 👋 My name is Dima. Fullstack JS Developer.&thinsp;
 - 👀 Languages open an opportunity to create precise beauty. That inspires me.&thinsp; -->
-📫 599371@gmail.com 
+📫 dmitriy.chernavin.job@gmail.com 
 </div>
