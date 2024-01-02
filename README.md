@@ -51,6 +51,6 @@
 <!--   <a href="https://mail.google.com/mail/?view=cm&source=mailto&to=599371@gmail.com">Contact via email</a> -->
  
 <!-- - 👋 My name is Dima. Fullstack JS Developer.&thinsp;
-- 👀 Languages open an opportunity to create precise beauty. That inspires me.&thinsp; -->
-📫 dmitriy.chernavin.job@gmail.com 
+- 👀 Languages open an opportunity to create precise beauty. That inspires me.&thinsp; 
+📫 dmitriy.chernavin.job@gmail.com -->
 </div>
